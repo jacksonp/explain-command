@@ -1,0 +1,21 @@
+{
+  "name": "explain-command",
+  "version": "1.0.0",
+  "description": "Explain shell commands in the shell",
+  "bin": {
+    "explain": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "man",
+    "page",
+    "command",
+    "options",
+    "explain",
+    "manual"
+  ],
+  "author": "Jackson Pauls <jackson@mankier.com> (https://www.mankier.com/)",
+  "license": "ISC"
+}
