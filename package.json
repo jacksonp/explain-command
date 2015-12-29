@@ -1,6 +1,6 @@
 {
   "name": "explain-command",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Explain shell commands in the shell",
   "bin": {
     "explain": "index.js"
