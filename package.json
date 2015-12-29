@@ -9,8 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "man",
-    "page",
+    "man page",
     "command",
     "options",
     "explain",
