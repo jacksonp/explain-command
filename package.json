@@ -2,6 +2,10 @@
   "name": "explain-command",
   "version": "1.0.2",
   "description": "Explain shell commands in the shell",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacksonp/explain-command.git"
+  },
   "bin": {
     "explain": "index.js"
   },
