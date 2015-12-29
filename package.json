@@ -1,6 +1,6 @@
 {
   "name": "explain-command",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Explain shell commands in the shell",
   "repository": {
     "type": "git",
